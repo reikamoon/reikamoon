@@ -5,11 +5,13 @@
 Hi :wave:  I'm Reika. <br>
 
 
-- :thought_balloon: I’m currently learning **Javascript**.
+- :thought_balloon: I’m currently studying **Javascript**.
 
 - :computer: You can find my portfolio [here.](https://www.makeschool.com/portfolio/anjelica-ambrosio)
 
-- 📝 I write articles [here.](https://medium.com/@mochika)
+- 📝 I write technical articles [here.](https://medium.com/@mochika)
+
+- :star: I have aspirations to one day become a software engineer and help create projects that will benefit others worldwide.
 
 
 <h2 align="left">Languages and Tools:</h2>
