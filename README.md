@@ -1,15 +1,14 @@
-# :ribbon: Welcome to my Profile! :ribbon:
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=reikamoon&label=Profile%20views&color=0e75b6&style=flat" alt="reikamoon" /> </p>
-<center>
+# :ribbon: Welcome to my Profile! :ribbon: <p align="left"> <img src="https://komarev.com/ghpvc/?username=reikamoon&label=Profile%20views&color=0e75b6&style=flat" alt="reikamoon" /> </p>
+
 <img src="mymelodygif.gif" alt="mymelodyswinggif">
-</center>
+
 
 ## About:ribbon:Me
 Hi!  I'm Reika. I'm a computer science student with a concentration in back-end web. <br><br>
-<img src="01_Reika2.png" alt="reikamoon">
+<img src="01_Reika2.png" alt="reikamoon" width="100%">
 
 <br>
-<h2> Currently... </h2>
+
 - :thought_balloon: I’m currently taking classes to improve my **Front End** skills.
 
 - :computer: You can find my school portfolio [here.](https://www.makeschool.com/portfolio/anjelica-ambrosio)
