@@ -5,9 +5,10 @@
 Hi :wave:  I'm Reika. <br>
 
 
-- :thought_balloon: I’m currently practicing and improving my **Front End** skills.
+- :thought_balloon: I’m currently taking classes to improve my **Front End** skills.
 
-- :computer: You can find my portfolio [here.](https://www.makeschool.com/portfolio/anjelica-ambrosio)
+- :computer: You can find my school portfolio [here.](https://www.makeschool.com/portfolio/anjelica-ambrosio)
+- :cherry_blossom: I also made a personal website [here.](https://github.com/reikamoon/reikamoon.github.io)
 
 - 📝 I write technical articles [here.](https://anjelicaa.medium.com/)
 
