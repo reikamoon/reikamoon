@@ -4,10 +4,8 @@
 
 
 ## About:ribbon:Me
-Hi!  I'm Reika. I'm a computer science student with a concentration in back-end web. <br><br>
-<img src="01_Reika2.png" alt="reikamoon" width="100%">
+Hi!  I'm Reika. I'm a computer science student with a concentration in back-end web. I love Sanrio, especially My Melody! <br><br>
 
-<br>
 
 - :thought_balloon: I’m currently taking classes to improve my **Front End** skills.
 
