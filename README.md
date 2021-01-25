@@ -2,7 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reikamoon&label=Profile%20views&color=0e75b6&style=flat" alt="reikamoon" /> </p>
 
 ## About:ribbon:Me
-Hi :wave:  I'm Reika. <br>
+Hi!  I'm Reika. <br>
+<img src="01_Reika2.png" alt="reikamoon">
 
 
 - :thought_balloon: I’m currently taking classes to improve my **Front End** skills.
