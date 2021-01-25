@@ -1,7 +1,8 @@
 # :ribbon: Welcome to my Profile! :ribbon:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reikamoon&label=Profile%20views&color=0e75b6&style=flat" alt="reikamoon" /> </p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=reikamoon&label=Profile%20views&color=0e75b6&style=flat" alt="reikamoon" /> </p>
+<center>
 <img src="mymelodygif.gif" alt="mymelodyswinggif">
+</center>
 
 ## About:ribbon:Me
 Hi!  I'm Reika. I'm a computer science student with a concentration in back-end web. <br><br>
