@@ -2,10 +2,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reikamoon&label=Profile%20views&color=0e75b6&style=flat" alt="reikamoon" /> </p>
 
 ## About:ribbon:Me
-Hi!  I'm Reika. <br>
+Hi!  I'm Reika. I'm a computer science student with a concentration in back-end web. <br>
 <img src="01_Reika2.png" alt="reikamoon">
 
-
+<br>
+<h2> Currently... </h2>
 - :thought_balloon: I’m currently taking classes to improve my **Front End** skills.
 
 - :computer: You can find my school portfolio [here.](https://www.makeschool.com/portfolio/anjelica-ambrosio)
