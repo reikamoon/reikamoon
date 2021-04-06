@@ -1,6 +1,6 @@
 # :ribbon: Welcome to my Profile! :ribbon: <p align="left"> <img src="https://komarev.com/ghpvc/?username=reikamoon&label=Profile%20views&color=0e75b6&style=flat" alt="reikamoon" /> </p>
 
-<img src="mymelodygif.gif" alt="mymelodyswinggif">
+<img src="mymelodygif.gif" alt="mymelodyswinggif" width="20%" height="20%">
 
 
 ## About:ribbon:Me
