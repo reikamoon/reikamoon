@@ -14,7 +14,7 @@ Hi!  I'm Reika. I'm a computer science student with a concentration in back-end 
 
 - 📝 I write technical articles [here.](https://anjelicaa.medium.com/)
 
-- :star: I have aspirations to one day become a software engineer and help create projects that will benefit others worldwide.
+- :star: I have published my JavaScript libraries [here.](https://www.npmjs.com/~reikamoon)
 
 
 </a> </p>
