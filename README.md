@@ -4,14 +4,14 @@
 
 
 ## About:ribbon:Me
-Hi!  I'm Reika. I'm a computer science student with a concentration in back-end web. I love Sanrio, especially My Melody! <br><br>
+Hi!  I'm Reika. I'm passionate about web development, and have dreams of becoming a Software Engineer! I love Sanrio, especially My Melody! <br><br>
 
 
-- :thought_balloon: I’m currently taking classes to improve my **Front End** skills.
+- :thought_balloon: I’m currently taking a software engineering internship, and am looking for new grad roles!
+- 📖 I am passionate about learning new technical skills and teaching tech!
 
 - 💡 I enjoy working on React and Node projects!
 
-- :computer: You can find my school portfolio [here.](https://www.makeschool.com/portfolio/anjelica-ambrosio)
 - :cherry_blossom: I also made a personal website [here.](https://github.com/reikamoon/reikamoon.github.io)
 
 - 📝 I write technical articles [here.](https://anjelicaa.medium.com/)
