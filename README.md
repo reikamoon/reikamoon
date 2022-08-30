@@ -7,12 +7,10 @@
 Hi!  I'm Reika. I'm passionate about web development, and have dreams of becoming a Software Engineer! I love Sanrio, especially My Melody! <br><br>
 
 
-- :thought_balloon: I’m currently taking a software engineering internship, and am looking for new grad roles!
+- :thought_balloon: I am looking for new grad software engineering roles!
 - 📖 I am passionate about learning new technical skills and teaching tech!
 
 - 💡 I enjoy working on React and Node projects!
-
-- :cherry_blossom: I also made a personal website [here.](https://github.com/reikamoon/reikamoon.github.io)
 
 - 📝 I write technical articles [here.](https://anjelicaa.medium.com/)
 
