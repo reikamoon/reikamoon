@@ -4,10 +4,10 @@
 
 
 ## About:ribbon:Me
-Hi!  I'm Reika. I'm passionate about web development, and have dreams of becoming a Software Engineer! I love Sanrio, especially My Melody! <br><br>
+Hi, welcome to my page! I'm passionate about web development, and have dreams of becoming a Software Engineer! I love Sanrio, especially My Melody! <br><br>
 
 
-- :thought_balloon: I am looking for new grad software engineering roles!
+- :thought_balloon: I am looking for software engineer and product manager roles!
 - 📖 I am passionate about learning new technical skills and teaching tech!
 
 - 💡 I enjoy working on React and Node projects!
