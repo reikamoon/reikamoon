@@ -3,7 +3,7 @@
 <img src="mymelodygif.gif" alt="mymelodyswinggif" width="20%" height="20%">
 
 
-## About:ribbon:Me
+## About :ribbon: Me
 Hi, welcome to my page! I'm passionate about web development, and have dreams of becoming a Software Engineer! I love Sanrio, especially My Melody! <br><br>
 
 
