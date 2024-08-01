@@ -33,6 +33,4 @@ Hi, welcome to my page! I'm passionate about web development, and have dreams of
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reikamoon&show_icons=true&locale=en&layout=compact" alt="reikamoon" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reikamoon&show_icons=true&locale=en" alt="reikamoon" /></p>
-
 
