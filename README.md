@@ -6,8 +6,6 @@
 ## About :ribbon: Me
 Hi, welcome to my page! I'm passionate about web development, and have dreams of becoming a Software Engineer! I love building and daydreaming about coding projects! <br><br>
 
-
-- :thought_balloon: I am looking for software engineer and product manager roles!
 - 📖 I am passionate about learning new technical skills and teaching tech!
 
 - 💡 I enjoy working on React and Node projects!
