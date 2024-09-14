@@ -4,7 +4,7 @@
 
 
 ## About :ribbon: Me
-Hi, welcome to my page! I'm passionate about web development, and I love building and daydreaming about coding projects! <br><br>
+Hi, welcome to my page! I'm passionate about web development, and I love building and daydreaming about coding projects! I'm always eager to learn new things, so I like writing and doing technical tutorials. <br><br>
 
 - 📖 I am passionate about learning new technical skills and teaching tech!
 
