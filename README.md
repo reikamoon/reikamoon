@@ -8,7 +8,7 @@ Hi, welcome to my page! I'm Anjelica, a CS grad, and I'm currently a jr. Technic
 
 
 - 💡 I love to teach! I can simplify complex technical concepts to be easily digestible by those of all skill levels.
-- 💭 I love to learn new tech and then teach it to others. I'm always hunting for the next great tech to learn and try out.
+- 💭 I love to learn new tech and then teach it to others. I'm always hunting for new tech to learn and try out.
 - 💻 I'm passionate about web development and love working on node.js and React projects.
 - 🐝 During my spare time, I like creating coding projects focusing on time management.
 - 📝 I write technical articles [on my personal blog,](https://anjelicaa.medium.com/)  and on [Akuity's blog!](akuity.io/blogs)
