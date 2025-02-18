@@ -4,15 +4,20 @@
 
 
 ## About :ribbon: Me
-Hi, welcome to my page! I'm passionate about web development, and I love building and daydreaming about coding projects! I'm currently a jr. Technical Marketing Specialist at Akuity!<br><br>
+Hi, welcome to my page! I'm Anjelica, a CS grad, and I'm currently a jr. Technical Marketing Specialist at Akuity!
 
-- 📖 I am passionate about learning new technical skills and teaching tech!
 
-- 💡 I enjoy working on React and Node projects!
-
-- 📝 I write technical articles [here.](https://anjelicaa.medium.com/)
-
+- 💡 I love to teach! I can simplify complex technical concepts to be easily digestible by those of all skill levels.
+- 💭 I love to learn new tech and then teach it to others. I'm always hunting for the next great tech to learn and try out.
+- 💻 I'm passionate about web development and love working on node.js and React projects.
+- 🐝 During my spare time, I like creating coding projects focusing on time management.
+- 📝 I write technical articles [on my personal blog,](https://anjelicaa.medium.com/)  and on [Akuity's blog!](akuity.io/blogs)
 - :star: I have published my JavaScript libraries [here.](https://www.npmjs.com/~reikamoon)
+
+### 🩷 Favorites 🩷
+- 🎀 🐰 I love Sanrio! My favorite characters are My Melody and Kuromi.
+- 🩷 My favorite color is pink!
+- 🐶 I love animals, especially dogs!
 
 
 </a> </p>
