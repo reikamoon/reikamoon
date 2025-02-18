@@ -37,4 +37,4 @@ Hi, welcome to my page! I'm Anjelica, a CS grad, and I'm currently a jr. Technic
 
 
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=reikamoon&rank=-?&theme=darkhub)](https://github.com/reikamoon/github-profile-trophy)
