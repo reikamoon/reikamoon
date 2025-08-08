@@ -6,7 +6,7 @@ Hi, I'm Anjelica! Welcome to my page!
 
 - 💡 I love to teach! I can simplify complex technical concepts to be easily digestible by those of all skill levels.
 - 💭 I love to learn new tech and then teach it to others. I'm always hunting for new tech to learn and try out.
-- 💻 I'm passionate about web development and love working on node.js and React projects.
+- 💻 I'm passionate about software development, especially full-stack web development (node.js and React) and DevOps (Kubernetes, Docker, Argo CD, Kargo)
 - 🐝 During my spare time, I like creating coding projects focusing on time management.
 - 📝 I write technical articles [on my personal blog,](https://anjelicaa.medium.com/)  and on [Akuity's blog!](https://akuity.io/blog)
 - :star: I have published my JavaScript libraries [here.](https://www.npmjs.com/~reikamoon)
