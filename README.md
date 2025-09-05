@@ -10,6 +10,7 @@ Hi, I'm Anjelica! I'm a Product Marketing Specialist at Mirantis! ✨ Welcome to
 - 🐝 During my spare time, I like creating coding projects focusing on time management.
 - 📝 I write technical articles [on my personal blog,](https://anjelicaa.medium.com/)  and on [Akuity's blog!](https://akuity.io/blog)
 - :star: I have published my JavaScript libraries [here.](https://www.npmjs.com/~reikamoon)
+- 🗣️ I do webinars, talks, workshops and presentations! Check out my [LinkedIn](https://linkedin.com/in/anjelica-ambrosio) Featured ⭐!
 
 </a> </p>
 
