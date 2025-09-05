@@ -2,7 +2,7 @@
 
 
 ## About :ribbon: Me
-Hi, I'm Anjelica! Welcome to my page!
+Hi, I'm Anjelica! I'm a Product Marketing Specialist at Mirantis! ✨ Welcome to my page!
 
 - 💡 I love to teach! I can simplify complex technical concepts to be easily digestible by those of all skill levels.
 - 💭 I love to learn new tech and then teach it to others. I'm always hunting for new tech to learn and try out.
